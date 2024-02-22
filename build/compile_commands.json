@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ars/gh/arsjtree/build",
+  "command": "/usr/bin/clang -g -o CMakeFiles/arsjtree.dir/main.c.o -c /home/ars/gh/arsjtree/main.c",
+  "file": "/home/ars/gh/arsjtree/main.c",
+  "output": "CMakeFiles/arsjtree.dir/main.c.o"
+}
+]
